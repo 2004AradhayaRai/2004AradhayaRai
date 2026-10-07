@@ -14,10 +14,10 @@ Final-year B.Tech CSE (AI & ML) student at Galgotias University. I build iOS app
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**iOS:** Swift, SwiftUI, SwiftData, RealityKit, MVVM
-**Languages:** Swift, Java, SQL
-**Web:** React, Vite, Express
-**Other:** Git and GitHub, OOP, AI/ML basics
+- **iOS:** Swift, SwiftUI, SwiftData, RealityKit, MVVM
+- **Languages:** Swift, Java, SQL
+- **Web:** React, Vite, Express
+- **Other:** Git and GitHub, OOP, AI/ML basics
 
 ## Featured projects
 
