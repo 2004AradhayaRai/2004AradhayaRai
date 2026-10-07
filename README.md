@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0D96F6&width=500&lines=iOS+Developer;Swift+%7C+SwiftUI+%7C+Java+%7C+SQL;CSE+(AI+%26+ML)+Student)](https://github.com/2004AradhayaRai)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Aradhaya%20Rai&fontSize=40&fontColor=ffffff)
+# Hi, I'm Aradhaya
 
 Final-year B.Tech CSE (AI & ML) student at Galgotias University. I build iOS apps with Swift and SwiftUI, and I also work with Java, SQL and full-stack web development.
 
