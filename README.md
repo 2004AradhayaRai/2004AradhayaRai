@@ -23,7 +23,7 @@ Final-year B.Tech CSE (AI & ML) student at Galgotias University. I build iOS app
 **[Movie Ticket Booking System](https://github.com/2004AradhayaRai/Movie_Ticket_Booking_System)**
 Console-based Java app to browse movies, pick shows and reserve seats. Uses OOP design, a singleton booking service, custom exceptions and file-based persistence so bookings survive restarts.
 
-**Vyom** (private team repo)
+**Vyom** 
 Team iOS app for astronomy and stargazing, built in SwiftUI. Happy to walk through the code in an interview.
 
 **[Gallery Cleaner](https://github.com/2004AradhayaRai/GalleryCleaner)**
