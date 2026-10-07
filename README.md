@@ -1,4 +1,5 @@
-# Hi, I'm Aradhaya 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0D96F6&width=500&lines=iOS+Developer;Swift+%7C+SwiftUI+%7C+Java+%7C+SQL;CSE+(AI+%26+ML)+Student)](https://github.com/2004AradhayaRai)
+
 
 Final-year B.Tech CSE (AI & ML) student at Galgotias University. I build iOS apps with Swift and SwiftUI, and I also work with Java, SQL and full-stack web development.
 
